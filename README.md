@@ -1,5 +1,9 @@
 ### Welcome to my Github, I'm James!😄
 
+My career in statistics and chemistry has given me the opportunity to apply Data Science stratagies for peer reviewed science. I am looking to continue as a Data Scientist upon the completion of my Ph.D in Spring 2021!
+
+More updates coming soon!😎
+
 <!--
 **jamesprg/jamesprg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
