@@ -6,6 +6,11 @@ More updates coming soon!😎
 
 [![Linkedin: jamesludwig](https://img.shields.io/badge/-jamesludwig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-ludwig-2a9b83165/)](https://www.linkedin.com/in/james-ludwig-2a9b83165/)
 
+
+### Portfolio
+
+![James' github stats](https://github-readme-stats.vercel.app/api?username=jamesprg&show_icons=true&theme=dracula&hide=stars,issues)
+
 ![pv](https://pageview.vercel.app/?github_user=jamesprg)
 
 <!--
