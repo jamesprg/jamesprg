@@ -6,7 +6,7 @@ More updates coming soon!😎
 
 [![Linkedin: jamesludwig](https://img.shields.io/badge/-jamesludwig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-ludwig-2a9b83165/)](https://www.linkedin.com/in/james-ludwig-2a9b83165/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![pv](https://pageview.vercel.app/)
 
 <!--
 **jamesprg/jamesprg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
