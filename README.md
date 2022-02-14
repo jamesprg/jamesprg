@@ -1,8 +1,6 @@
 ### Welcome to my Github, I'm James!😄
 
-My career in statistics and chemistry has given me the opportunity to apply Data Science stratagies for peer reviewed science. I am looking to continue as a Data Scientist upon the completion of my Ph.D in Spring 2021!
-
-More updates coming soon!😎
+My career in statistics and chemistry has given me the opportunity to apply Data Science stratagies for peer reviewed science. I now work as a bioinformatics analyst with Fred Hutch!
 
 [![Linkedin: jamesludwig](https://img.shields.io/badge/-jamesludwig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-ludwig-2a9b83165/)](https://www.linkedin.com/in/james-ludwig-2a9b83165/)
 
